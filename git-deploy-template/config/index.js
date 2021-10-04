@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/house',
+    assetsPublicPath: 'https://github.com/CyberGinzo/VueProjects',
     proxyTable: {},
 
     // Various Dev Server settings
